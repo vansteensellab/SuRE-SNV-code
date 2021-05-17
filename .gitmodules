@@ -1,9 +1,9 @@
 [submodule "SuRE-variants-pipeline"]
 	path = SuRE-variants-pipeline
-	url = https://github.com/lpagie/SuRE-variants-pipeline
+	url = https://github.com/vansteensellab/SuRE-variants-pipeline.git
 [submodule "SuRE-ms-scripts"]
 	path = SuRE-figure-scripts
 	url = https://github.com/vansteensellab/SuRE-ms-scripts
 [submodule "SuRE-raQTL-scripts"]
 	path = SuRE-raQTL-scripts
-	url = https://github.com/lpagie/SuRE-raQTL-scripts
+	url = https://github.com/vansteensellab/SuRE-raQTL-scripts.git
